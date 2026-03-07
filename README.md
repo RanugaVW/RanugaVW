@@ -27,3 +27,5 @@
 ### 🚀 Key Projects
 - **[ASL-Recognition](https://github.com/RanugaVW/ASL-Recognition-using-CNN-and-Mediapipe):** Dual-architectural approach for nonverbal alphabet sign detection.
 - **[MicroBankingSystem-Backend](https://github.com/Team-SMDRS/MicroBankingSystem-Backend):** Scalable PLpgSQL-based banking logic.
+
+[![Ranuga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RanugaVW&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
