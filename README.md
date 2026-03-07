@@ -11,7 +11,8 @@
 ---
 
 ### 🛠 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,react,supabase,postgres,tensorflow,pytorch,figma,docker,cpp,c)](https://skillicons.dev)
+### 🛠 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,nodejs,express,react,supabase,postgres,tensorflow,pytorch,figma,docker,cpp,c)](https://skillicons.dev)
 
 ---
 
