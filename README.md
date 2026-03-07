@@ -28,4 +28,4 @@
 - **[ASL-Recognition](https://github.com/RanugaVW/ASL-Recognition-using-CNN-and-Mediapipe):** Dual-architectural approach for nonverbal alphabet sign detection.
 - **[MicroBankingSystem-Backend](https://github.com/Team-SMDRS/MicroBankingSystem-Backend):** Scalable PLpgSQL-based banking logic.
 
-![](https://github.com/RanugaVW/RanugaVW/blob/master/profile-summary-card-output/dracula/0-stats.svg)
+![Ranuga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanugaVW&theme=dark)
