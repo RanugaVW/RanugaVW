@@ -1,4 +1,4 @@
-# Hi there! I'm Ranuga Weerasekara👋
+# Hii! I'm Ranuga Weerasekara👋
 
 **Computer Science and Engineering Student Specializing Data Science at University of Moratuwa** 🎓
 
