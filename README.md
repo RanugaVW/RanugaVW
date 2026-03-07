@@ -17,10 +17,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanugaVW&show_icons=true&theme=dark" alt="Ranuga's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanugaVW&theme=dark" alt="Ranuga's Streak" height="150" />
-</p>
+![Ranuga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanugaVW&theme=dark)
 
 ---
 
@@ -28,4 +25,4 @@
 - **[ASL-Recognition](https://github.com/RanugaVW/ASL-Recognition-using-CNN-and-Mediapipe):** Dual-architectural approach for nonverbal alphabet sign detection.
 - **[MicroBankingSystem-Backend](https://github.com/Team-SMDRS/MicroBankingSystem-Backend):** Scalable PLpgSQL-based banking logic.
 
-![Ranuga's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanugaVW&theme=dark)
+
