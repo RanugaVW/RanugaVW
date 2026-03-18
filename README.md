@@ -37,14 +37,6 @@
 
 ---
 
-<p align="center">
-  💭 <b>Let's connect and build something amazing!</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RanugaVW&label=Profile%20Views&color=00bfff&style=flat-square" alt="RanugaVW" />
-</p>
-
 ### 🚀 Key Projects
 - **[ASL-Recognition](https://github.com/RanugaVW/ASL-Recognition-using-CNN-and-Mediapipe):** Dual-architectural approach for nonverbal alphabet sign detection.
 - **[MicroBankingSystem-Backend](https://github.com/Team-SMDRS/MicroBankingSystem-Backend):** Scalable PLpgSQL-based banking logic.
