@@ -4,8 +4,13 @@
 
 ✨ *Turning ideas into scalable solutions that address real-world challenges.*
 
-- 📫 **Reach me at:** ranugaweerasekara2@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/RanugaWeerasekara](https://www.linkedin.com/in/ranuga-weerasekara-215911290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## Reach me at 🔗
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranuga-weerasekara-215911290)
+[![Email](https://img.shields.io/badge/Email-ranugaweerasekara2%40gmail.com-D2691E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranugaweerasekara2@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RanugaVW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RanugaVW)
+
+
+
 - 💻 **Project Focus:** Agentic System Development, Computer Vision, Machine Learning, and Backend Engineering
 
 ## 🛠 Tech Stack
