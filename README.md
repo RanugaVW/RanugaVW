@@ -6,7 +6,7 @@
 
 - 📫 **Reach me at:** ranugaweerasekara2@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/RanugaWeerasekara](https://www.linkedin.com/in/ranuga-weerasekara-215911290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 💻 **Project Focus:** Computer Vision, Machine Learning, and Backend Engineering
+- 💻 **Project Focus:** Agentic System Development, Computer Vision, Machine Learning, and Backend Engineering
 
 ## 🛠 Tech Stack
 
